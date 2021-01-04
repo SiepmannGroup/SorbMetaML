@@ -1,2 +1,1 @@
-# metaisotherm
-Predicting hydrogen storage in nanoporous materials using meta-learning
+# Fingerprinting diverse nanoporous materials for optimal hydrogen storage conditions using meta-learning
