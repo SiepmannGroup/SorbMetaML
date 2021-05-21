@@ -1,4 +1,4 @@
-## Molecular simulation data for hydrogen adsorption in nanoporous material.
+## Molecular simulation data for hydrogen adsorption in nanoporous materials.
 
 Each subdirectory contains the molecular simulation data of a type of nanoporous materials. Within the directory the files below are present (with `X=iza|pcod|hcp|mof`):
 * `X_hydrogen.npy`: NumPy array files containing normalized hydrogen loading and the corresponding temperature and pressure. For each material, 64 state points are available.
